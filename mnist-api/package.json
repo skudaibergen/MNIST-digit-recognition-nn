@@ -15,7 +15,7 @@
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "fast-csv": "^2.4.1",
-    "mathjs": "^5.2.0",
+    "mathjs": "^7.5.1",
     "nodemon": "^1.18.4",
     "numjs": "^0.16.0"
   }
