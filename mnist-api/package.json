@@ -13,7 +13,7 @@
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0",
     "body-parser": "^1.18.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "fast-csv": "^2.4.1",
     "mathjs": "^5.2.0",
     "nodemon": "^1.18.4",
